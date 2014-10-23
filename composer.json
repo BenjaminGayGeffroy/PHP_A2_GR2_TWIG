@@ -1,0 +1,16 @@
+{
+    "name": "maro/php_a2_gr2_twig",
+    "description": "My first Twig Engine Template Biatch!",
+    "require": {
+        "twig/twig": "~1.16",
+        "imagine/imagine": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin GAY",
+            "email": "benjamingaygeffroy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
